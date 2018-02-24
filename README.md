@@ -1,18 +1,28 @@
-#Tutorial: CRUD with JDBC Data and Freemarker in Spring #Content: show how to handle database using JDBC Data and use freemarker template instead of JSP in Spring #Date created: Fri 18 Mar 2017<br>
-#Author: Dinh Duc<br>
-#Coppyright © Spring Community<br>
-#Link group : https://www.facebook.com/groups/1811052582478351/<br>
 
-Create Maven project using command<br>
+# CRUD with JDBC Data and Freemarker in Spring 
+# Content 
+- Show how to handle database using JDBC Data and use freemarker template instead of JSP in Spring
 
-#mvn archetype:generate #mvn eclipse:eclipse<br>
+# Release 
+- created: Fri 18 Mar 2017
 
-Create database #Database script can find from resources/Data.sql<br>
+# Used technologies
+- Spring Boot, Spring JDBC, Freemarker, jQuery, Bootstrap, Javascript, MariaDB
 
-Configure #Change database's connection information inside application.properties file before running app.<br>
+# Configuration 
+- mvn archetype:generate
+- mvn eclipse:eclipse
+- database script can find from <b>resources/Data.sql</b>
+- change database's connection information inside application.properties file before running app
 
-Technologies used #Spring Boot, Spring JDBC, Freemarker, jQuery, Bootstrap, Javascript, MariaDB<br>
+# Demo
+- https://jdbcdata.herokuapp.com
 
-Demo<br>
+# Author
+- Dinh Duc Thinh
+- Student at <b>Haaga Helia University</b>
+- Software developer at <b>Bisnode Finland Oy</b>
 
-#https://jdbcdata.herokuapp.com<br>
+# Coppyright 
+- © Spring Community 
+- https://www.facebook.com/groups/1811052582478351/
